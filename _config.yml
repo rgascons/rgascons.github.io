@@ -1,5 +1,5 @@
 name: Ricard Gascons
-highlighter: pygments
+highlighter: rouge
 github: https://www.github.com/zakum42
 about: I am a Computer Science student from Barcelona. I usually program in Python, tinker with C++ and currently learning ML.
 urls:
