@@ -1,9 +1,9 @@
-name: Simply Grey
+name: Ricard Gascons
 markdown: redcarpet
 highlighter: pygments
-github: https://www.github.com/liamsymonds
-about: I am an independent developer from the sunny UK. I dabble in Ruby, play in C and I'm an avid systems administrator.
+github: https://www.github.com/zakum42
+about: I am a Computer Science student from Barcelona. I usually program in Python, tinker with C++ and currently learning ML.
 urls:
     - text: github
-      url: https://github.com/liamsymonds
-baseurl: '/simplygrey-jekyll'
+      url: https://github.com/zakum42
+baseurl: ''
