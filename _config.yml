@@ -7,3 +7,6 @@ urls:
     - text: github
       url: https://github.com/zakum42
 baseurl: ''
+url: http://rgascons.cc/
+gems:
+  - jekyll-feed
