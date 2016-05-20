@@ -20,7 +20,7 @@ to tell my advancements through the whole program.
 
 
 
-Please subscribe to my [RSS channel][rss-feed] if you are interested on following me.
+Please subscribe to my [RSS feed][rss-feed] if you are interested on following me.
 I plan to post at least once a month, I'm sure you will enjoy reading 
 my entries as much as I do writing them.
 
