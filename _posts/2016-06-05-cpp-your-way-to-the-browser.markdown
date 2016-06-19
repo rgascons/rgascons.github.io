@@ -2,7 +2,7 @@
 layout: post
 title:  "C++ your way to the browser!"
 date:   2016-06-05 12:00:00 +02:00
-categories: personal
+categories: projects
 ---
 Hey everybody,
 it's been a harsh week over here, with exams and deliveries all over the place.
