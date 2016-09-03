@@ -6,7 +6,7 @@ urls:
     - text: github
       url: https://github.com/zakum42
     - text: cv
-      url: http://rgascons.cc/static/My_CV.pdf
+      url: http://rgascons.cc/static/resume.pdf
     - text: rss feed
       url: http://rgascons.cc/feed.xml
 baseurl: ''
