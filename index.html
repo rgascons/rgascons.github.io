@@ -1,12 +1,38 @@
----
-layout: default
----
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        <title> Ricard Gascons </title>
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
 
-<div id="home">
-  <h1>Blog Posts</h1>
-  <ul class="posts">
-    {% for post in site.posts %}
-      <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
-    {% endfor %}
-  </ul>
-</div>
+        <!-- syntax highlighting CSS -->
+        <link rel="stylesheet" href="css/syntax.css">
+
+        <!-- Bootstrap core CSS -->
+        <link href="css/bootstrap.min.css" rel="stylesheet">
+
+        <!-- Custom CSS -->
+        <link rel="stylesheet" href="css/main.css">
+
+        <link rel="shortcut icon" type="image/png" href="img/favicon.png">
+
+    </head>
+    <body>
+        <div class="col-sm-3 col-centered">
+            <h1>Ricard Gascons</h1>
+            <img id="about" src="img/logo.jpg" height="75px" width="75px"><br>	
+            <h2>links</h2><br>
+                <a class="about" href="https://github.com/zakum42">github</a><br>
+                <a class="about" href="https://www.linkedin.com/in/ricard-gascons">linkedin</a><br>
+                <a class="about" href="https://twitter.com/ricardgascons">twitter</a><br>
+                <a class="about" href="http://rgascons.cc/static/resume.pdf">cv</a><br>
+                <a class="about" href="mailto:rgascons@rgascons.cc">mail</a><br>
+            <div id="about">
+                <h2>about</h2><br>
+                <a>I've recently graduated from Computer Science in Barcelona. Soon in Dublin @...</a>
+            </div>
+                        
+        </div>
+    </body>
+</html>

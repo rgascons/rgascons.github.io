@@ -23,6 +23,10 @@ span.time {
     font-size: 11px;
 }
 
+a {
+    font-size: 13px;
+}
+
 h1 {
     font-weight: normal;
     color: #696969;
@@ -61,6 +65,11 @@ a:hover {
 div#container {
     width: 700px;
     margin: auto;
+}
+
+.col-centered{
+    float: none;
+    margin: 0 auto;
 }
 
 /**
